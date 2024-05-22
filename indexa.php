@@ -8,20 +8,6 @@ $id = $_SESSION['uid'];
 
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <!-- Your head content here -->
-</head>
-<body>
-
-<!-- Your HTML content here -->
-
-
-<!-- More HTML content here -->
-
-</body>
-</html>
 
 
 
